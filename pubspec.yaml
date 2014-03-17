@@ -1,0 +1,6 @@
+name: nisheviz-dart
+dependencies:
+  nishe-dart:
+    git: git://github.com/b0ri5/nishe-dart.git
+dev_dependencies:
+  unittest: any
